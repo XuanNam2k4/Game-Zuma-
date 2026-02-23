@@ -51,7 +51,7 @@ Game sử dụng thư viện **Pygame** để tạo giao diện và xử lý tư
 ### 1. Cài đặt Visual Studio Code  
 Tải và cài đặt VS Code từ trang chính thức:  
 [https://code.visualstudio.com/](https://code.visualstudio.com/)  
-![alt text](image-3.png)
+![alt text](image/image-3.png)
 
 ---
 
