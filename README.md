@@ -80,7 +80,10 @@ Mở terminal hoặc Command Prompt và chạy lệnh:  **pip install pygame**
 ---
 
 ### 5. Hướng dẫn thực hiện Project
-### Bước 1: Mở project bằng Visual Studio Code
+### Bước 1: Tải và giải nén project
+Tải project về máy và giải nén file ZIP.
+![alt text](image-8.png)
+### Bước 2: Mở project bằng Visual Studio Code
 
 - Mở Visual Studio Code
 - Chọn **File → Open Folder**
