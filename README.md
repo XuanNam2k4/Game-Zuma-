@@ -60,23 +60,23 @@ Tải Python tại:
 [https://www.python.org/downloads/](https://www.python.org/downloads/)  
 
 **Lưu ý:** Trong quá trình cài đặt, nhớ tích chọn **Add Python to PATH** để thêm Python vào biến môi trường.  
-![alt text](image-4.png)
+![alt text](image/image-4.png)
 
 ---
 
 ### 3. Cài đặt Python Extension trong VS Code  
 Mở VS Code, tìm và cài đặt extension **Python** của Microsoft.  
-![alt text](image-5.png)
+![alt text](image/image-5.png)
 ---
 
 ### 4. Cài đặt thư viện Pygame
 
 Pygame là một thư viện Python rất phổ biến để phát triển game 2D, cung cấp các công cụ để xử lý đồ họa, âm thanh, và tương tác người dùng một cách dễ dàng.
 
-![alt text](image-6.png)
+![alt text](image/image-6.png)
 
 Mở terminal hoặc Command Prompt và chạy lệnh:  **pip install pygame**
-![alt text](image-7.png)
+![alt text](image/image-7.png)
 ---
 
 ### 5. Hướng dẫn thực hiện Project
@@ -85,15 +85,15 @@ Mở terminal hoặc Command Prompt và chạy lệnh:  **pip install pygame**
 - Mở Visual Studio Code
 - Chọn **File → Open Folder**
 - Chọn thư mục `d:\Game-Zuma-python-master` rồi bấm **Select Folder**
-![alt text](image.png)
+![alt text](image/image.png)
 ### Bước 3: Chạy chương trình
 
 - Tìm file `main.py` trong thư mục project.
 - Chạy file này bằng cách nhấn **Run** hoặc mở terminal và chạy câu lệnh: **python main.py**
-![alt text](image-1.png)
+![alt text](image/image-1.png)
 ###  6. Mô tả cách chơi
 Game Zuma là một trò chơi giải đố hành động rất nổi tiếng, do PopCap Games phát triển và phát hành lần đầu vào năm 2003.
-![alt text](image-2.png)
+![alt text](image/image-2.png)
 
 - Trong game, người chơi điều khiển một chú ếch đá đứng ở giữa màn hình. Người chơi bắt đầu bằng cách nhấn **con trỏ chuột** trên màn hình di chuyển tất cả các góc để bắn quả bóng di chuyển vào chuỗi bi màu đang di chuyển tạo thành chuỗi bi trên đường đi.
 - Khi quả bóng sẽ liên tục di chuyển và có 3 viên cùng màu trở lên nối liền nhau phía trên màn hình chúng sẽ biến mất phá huỷ cũng màu và mất đi.
